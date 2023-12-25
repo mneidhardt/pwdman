@@ -1,2 +1,2 @@
-# pwdman - first commit.
+# pwdman.
 
